@@ -7,4 +7,4 @@ To build and run this, you need the following things:
 - CMake (3.19+)
 
 Linux (Ubuntu/Debian) requirements: 
-sudo apt install build-essential cmake ninja-build \ qt6-base-dev qt6-multimedia-dev libqt6multimedia6 \ libgstreamer1.0-dev gstreamer1.0-plugins-base gstreamer1.0-plugins-good \ gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav
+- sudo apt install build-essential cmake ninja-build \ qt6-base-dev qt6-multimedia-dev libqt6multimedia6 \ libgstreamer1.0-dev gstreamer1.0-plugins-base gstreamer1.0-plugins-good \ gstreamer1.0-plugins-bad gstreamer1.0-plugins-ugly gstreamer1.0-libav
